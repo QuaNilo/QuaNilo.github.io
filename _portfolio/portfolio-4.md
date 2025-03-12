@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI-Powered Meeting Transcriber"
+excerpt: "Transcriber and diarization of speakers from lengthy audio recordings of town hall meetings (or any other meeting).<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Developed a Docker-integrated microservice utilizing LLM Models from OpenAI and Azure Speech Services to transcribe and diarize speakers from lengthy audio recordings of town hall meetings (or any other meeting). Implemented features include generating a summarized text, key points, a verbatim transcript, and various other functionalities, all compiled into a Word document.

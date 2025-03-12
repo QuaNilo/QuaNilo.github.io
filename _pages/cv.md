@@ -9,56 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+###  **Softinsa - IBM**
+##### 2023-Current
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  ### Projects
 
-Publications
+  ##### EasyInterview
+  ###### Tech Stack : Python, Flask, React, Tailwind, Docker, Kubernetes(rancher), Pipelines, MongoDB, AzureAD, Single-Sign On
+
+    Developed AI software to revolutionize IBM Softinsa's technical
+    interview process. This project integrates generative language
+    models to create exams on demand. It features a user-friendly
+    portal and a dashboard that facilitates the generation of tests with
+    randomized questions of varying difficulty levels and topics.
+    Interviewee assessments are conducted automatically.
+
+##### Devops
+    I designed and implemented CI/CD pipelines to streamline deployment workflows. The pipelines build and push Docker images to Harbor for image hosting, then trigger SonarQube for static code analysis. Upon successful review, the images are deployed to QA and Production environments on Rancher (Kubernetes).
+
+  ##### EDP Standard Database
+
+    * EDP_STANDARD TODO
+---
+### **NOOP**
+##### 2021-2023
+  ##### Participatory Budget Tool
+  ###### Tech Stack : TALL(Tailwind, Alpine, Livewire, Laravel).
+
+    Built a solution that enables town halls to
+    enable citizens to vote on and create proposals for
+    initiatives and projects to allocate the participatory
+    budget within their respective towns.
+
+
+  ##### AI-Powered Meeting Transcriber
+  ###### Tech Stack: Python, Flask, OpenAI LLM, Azure Storage, Docker
+
+    Developed a Docker-integrated microservice utilizing LLM
+    Models from OpenAI and Azure Speech Services to
+    transcribe and diarize speakers from lengthy audio
+    recordings of town hall meetings (or any other meeting).
+    Implemented features include generating a summarized
+    text, key points, a verbatim transcript, and various other
+    functionalities, all compiled into a Word document.
+
+  ##### Intelligent Document & Media Processing SaaS
+  ###### Tech Stack: Python, Flask, LangChain, OpenAI LLM, Azure Storage, FAISS ( Vector DB), Docker
+
+    Designed and developed a SaaS platform enabling users to upload and query various file types (PDFs, Word documents, audio, and images) using an AI assistant. Leveraged LangChain for data processing and retrieval-augmented generation (RAG), integrating OpenAI's LLM models for contextual understanding. Built a scalable Python (FastAPI/Flask) backend to handle file processing, embedding generation, and conversational AI. Optimized PostgreSQL/Vector DBs (FAISS, ChromaDB, Weaviate) for semantic search and ensured secure API communication with authentication and role-based access controls.
+
+### Devops
+
+    Experience with container orchestration and deployments with pipelines to production on servers configured using nginx and portainer.
+
+
+Education
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Associate Degree in Polytechnic Institute of Tomar, 2023
+
+
+
+## Language Skills
+
+* **Portuguese (Mother tongue)**
+* English (C2 Listening & Reading, C1 Spoken Production & Spoken Interaction, C1 Writing)
+* Spanish (B1 Listening & Reading, A2 Spoken Production & Spoken Interaction, A2 Writing)

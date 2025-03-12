@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Participative Budget"
+excerpt: "Solution that enables town halls to allow citizens to vote on and create proposals<br/><img src='/images/BackendOP.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Built a solution that enables town halls to allow citizens to vote on and create proposals for initiatives and projects to allocate the participatory budget within their respective towns.

@@ -21,7 +21,7 @@ redirect_from:
 Developed AI software to revolutionize IBM Softinsa's technical interview process. This project integrates generative language models to create exams on demand. It features a user-friendly portal and a dashboard that facilitates the generation of tests with randomized questions of varying difficulty levels and topics. Interviewee assessments are conducted automatically.
 </span>  
 
-##### <span style="font-size: 0.9em;">**DevOps**</span>
+### <span style="font-size: 0.9em;">**DevOps**</span>
 <span style="font-size: 0.85em;">
 Designed and implemented CI/CD pipelines to streamline deployment workflows. The pipelines build and push Docker images to Harbor for image hosting, then trigger SonarQube for static code analysis. Upon successful review, the images are deployed to QA and Production environments on Rancher (Kubernetes).
 </span>  
@@ -56,15 +56,15 @@ Developed a Docker-integrated microservice utilizing LLM Models from OpenAI and 
 Designed and developed a SaaS platform enabling users to upload and query various file types (PDFs, Word documents, audio, and images) using an AI assistant. Leveraged LangChain for data processing and retrieval-augmented generation (RAG), integrating OpenAI's LLM models for contextual understanding. Built a scalable Python (FastAPI/Flask) backend to handle file processing, embedding generation, and conversational AI. Optimized PostgreSQL/Vector DBs (FAISS, ChromaDB, Weaviate) for semantic search and ensured secure API communication with authentication and role-based access controls.
 </span>  
 
-##### <span style="font-size: 0.9em;">**DevOps**</span>
+### <span style="font-size: 0.9em;">**DevOps**</span>
 <span style="font-size: 0.85em;">
 Experience with container orchestration and deployments using pipelines for production on servers configured with Nginx and Portainer.
 </span>  
 
-## **Education**  
-- Associate Degree, **Polytechnic Institute of Tomar**, 2023  
+## <span style="font-size: 0.8em;">**Education**</span>
+- <span style="font-size: 0.85em;">Associate Degree, **Polytechnic Institute of Tomar**, 2023<span>
 
 ## **Language Skills**  
-- **Portuguese** (Mother tongue)  
-- **English** (C2 Listening & Reading, C1 Spoken Production & Spoken Interaction, C1 Writing)  
-- **Spanish** (B1 Listening & Reading, A2 Spoken Production & Spoken Interaction, A2 Writing)  
+- <span style="font-size: 0.9em;">**Portuguese** (Mother tongue)</span>  
+- <span style="font-size: 0.9em;">**English** (C2 Listening & Reading, C1 Spoken Production & Spoken Interaction, C1 Writing)</span>
+- <span style="font-size: 0.9em;">**Spanish** (B1 Listening & Reading, A2 Spoken Production & Spoken Interaction, A2 Writing)</span>

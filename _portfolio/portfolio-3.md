@@ -1,5 +1,5 @@
 ---
-title: "EDP Standard Database"
+title: "EDP Standard Database(SOFTINSA IBM)"
 excerpt: "Standardized database to unify wind turbine error codes from multiple manufacturers, enabling technicians to access consistent diagnostics in the field. <br/>"
 collection: portfolio
 ---

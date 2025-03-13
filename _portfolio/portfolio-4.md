@@ -1,5 +1,5 @@
 ---
-title: "AI-Powered Meeting Transcriber"
+title: "AI-Powered Meeting Transcriber(NOOP)"
 excerpt: "Transcriber and diarization of speakers from lengthy audio recordings of town hall meetings (or any other meeting).<br/>"
 collection: portfolio
 ---

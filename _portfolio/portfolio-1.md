@@ -1,5 +1,5 @@
 ---
-title: "EasyInterview"
+title: "EasyInterview(Softinsa IBM)"
 excerpt: "Easy Interview is an AI-powered microservices platform that automates technical interview question generation, validation, and management for HR professionals.<br/>"
 collection: portfolio
 ---

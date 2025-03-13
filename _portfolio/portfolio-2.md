@@ -1,5 +1,5 @@
 ---
-title: "Town Hall’s Participatory Budget"
+title: "Town Hall’s Participatory Budget(NOOP)"
 excerpt: "Solution that enables town halls to allow citizens to vote on and create proposals<br/>"
 collection: portfolio
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Intelligent Document & Media Processing SaaS"
+title: "Intelligent Document & Media Processing SaaS(NOOP)"
 excerpt: "Leveraged LangChain for data processing and retrieval-augmented generation (RAG), integrating OpenAI's LLM models for contextual understanding..<br/>"
 collection: portfolio
 ---

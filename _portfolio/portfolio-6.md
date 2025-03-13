@@ -1,5 +1,5 @@
 ---
-title: "Social Media Scraper"
+title: "Social Media Scraper(NOOP)"
 excerpt: "Leveraged LangChain for data processing and retrieval-augmented generation (RAG), integrating OpenAI's LLM models for contextual understanding..<br/>"
 collection: portfolio
 ---

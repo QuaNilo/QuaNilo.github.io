@@ -27,7 +27,7 @@ Designed and implemented CI/CD pipelines to streamline deployment workflows. The
 </span>  
 
 ##### <span style="font-size: 1.1em;">**EDP Standard Database**</span>
-<span style="font-size: 0.85em;">(Details to be added)</span>  
+<span style="font-size: 0.85em;">Developed a centralized database and standardization system to unify error codes and signals from wind turbines of different manufacturers, including Gamesa and Siemens. This solution enables technicians in the field to access a consistent, manufacturer-agnostic error code system, improving troubleshooting efficiency and reducing downtime. Key features include real-time data retrieval, mapping of proprietary error codes to standardized equivalents, and a user-friendly interface for field technicians. The system enhances operational reliability by streamlining diagnostics across diverse turbine models.</span>  
 
 ---
 

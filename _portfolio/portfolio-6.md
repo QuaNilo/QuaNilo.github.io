@@ -18,3 +18,11 @@ collection: portfolio
 - Utilized Blockfrost API for blockchain interactions and explored decentralized vs. centralized database solutions.
 
 - Set up a containerized development environment and automated deployment workflows for scalability.
+
+## Tech Stack: 
+**React (TypeScript)**, 
+**FastAPI (Python)**, 
+**Aiken (Smart Contracts)**, 
+**MeshJS**, 
+**Own Cardano Node on Docker and Ogmios for connectivity via socket**, **Docker**, 
+**Git**

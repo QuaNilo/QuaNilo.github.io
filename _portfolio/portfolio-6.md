@@ -1,67 +1,20 @@
 ---
-title: "Social Media Scraper(NOOP)"
-excerpt: "Leveraged LangChain for data processing and retrieval-augmented generation (RAG), integrating OpenAI's LLM models for contextual understanding..<br/>"
+title: "Cardano Decentralized Freelance Marketplace(Personal)"
+excerpt: "A blockchain-powered freelance platform leveraging Cardano smart contracts for secure job agreements and milestone-based payments...<br/>"
 collection: portfolio
 ---
 
-[Github](https://github.com/QuaNilo/SocialScrapers)
+ **Decentralized Freelance Marketplace** A blockchain-powered freelance platform leveraging Cardano smart contracts for secure job agreements and milestone-based payments.
 
- **Social Scraper** is a Python-based web application that checks the availability of usernames across multiple social media platforms. Utilizing technologies such as Puppeteer Python (Pyppeteer), Flask, and web scraping libraries like Beautiful Soup, this tool provides a unified interface to verify username availability.
 
-## Supported Platforms
+- Developed a full-stack decentralized application (DApp) using React (TypeScript) for the frontend and FastAPI (Python) for the backend.
 
-The application supports the following social media networks:
+- Implemented smart contracts with Aiken to facilitate escrow payments, ensuring funds are locked and released based on mutual agreement.
 
-- Twitter
-- Instagram
-- Reddit
-- TikTok
-- YouTube
-- Twitch
-- Facebook
+- Integrated Cardano wallet authentication via MeshJS, supporting Eternl, Nami, Flint, Gero, and Lace wallets for trustless user verification.
 
-## Example Usage
+- Designed and implemented a dispute resolution system, enabling arbitration in case of contract disagreements.
 
-### `/checkall_handle`
+- Utilized Blockfrost API for blockchain interactions and explored decentralized vs. centralized database solutions.
 
-- **Methods:** `GET`
-- **Parameters:**
-  - `handle`: The username to check for availability across all supported platforms.
-
-**Response** 
-```json
-{
-    "data": {
-        "facebook": {
-            "is_available": "Failure",
-            "success": false
-        },
-        "instagram": {
-            "is_available": false,
-            "success": true
-        },
-        "reddit": {
-            "is_available": false,
-            "success": true
-        },
-        "tiktok": {
-            "is_available": false,
-            "success": true
-        },
-        "twitch": {
-            "is_available": false,
-            "success": true
-        },
-        "twitter": {
-            "is_available": false,
-            "success": true
-        },
-        "youtube": {
-            "is_available": false,
-            "success": true
-        }
-    },
-    "success": true
-}
-```
-
+- Set up a containerized development environment and automated deployment workflows for scalability.
